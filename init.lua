@@ -1,4 +1,2 @@
 require("colew")
-print("hello")
-
 
